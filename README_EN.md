@@ -22,6 +22,29 @@ No Python. No backend service. Fetch real-time quotes and K-line data for **A-sh
 
 🧭 [Stock Dashboard](https://chengzuopeng.github.io/stock-dashboard/): A stock market dashboard demo built with stock-sdk. Feel free to try it.
 
+## Project Origin and Open Source
+
+stock-sdk is an open-source TypeScript project maintained by [chengzuopeng](https://github.com/chengzuopeng). It started from a practical need: making stock market data easy to use directly from frontend and Node.js projects. The project focuses on browser + Node.js compatibility, zero runtime dependencies, and a unified typed API.
+
+This project is open sourced under the [ISC License](./LICENSE). You may use, modify, and distribute the code as long as you comply with the license terms.
+
+## Data Sources and Usage Notes
+
+stock-sdk is a wrapper for requesting, parsing, and typing market data. It does not produce original market data and is not affiliated with any market data provider or trading institution.
+
+Main data sources:
+
+- Tencent Finance: real-time quotes, code lists, search, trading calendar, fund flow, and intraday timeline
+- Eastmoney: A-share / HK / US historical K-line, minute K-line, sectors, dividend details, futures, and part of the options data
+- Sina: part of the ETF option minute data and supplemental option workflows
+
+Please note:
+
+- Data is intended for learning, research, personal tools, or non-commercial display scenarios
+- Follow the terms of service, robots policy, and rate limits of the corresponding data source websites
+- Market data may be delayed, missing, corrected later, or affected by upstream API changes
+- This project does not provide investment advice and does not guarantee that the data is suitable for live trading, quantitative trading, or any financial decision
+
 ## Why stock-sdk?
 
 If you're a frontend engineer, you may have encountered these problems:
