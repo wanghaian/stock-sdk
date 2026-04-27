@@ -2,7 +2,7 @@
 
 [![npm version](https://img.shields.io/npm/v/stock-sdk.svg)](https://www.npmjs.com/package/stock-sdk)
 [![npm downloads](https://img.shields.io/npm/dm/stock-sdk.svg)](https://www.npmjs.com/package/stock-sdk)
-[![license](https://img.shields.io/npm/l/stock-sdk)](https://github.com/chengzuopeng/stock-sdk/blob/master/LICENSE)
+[![license](https://img.shields.io/npm/l/stock-sdk)](https://github.com/wanghaian/stock-sdk/blob/master/LICENSE)
 [![MCP](https://img.shields.io/badge/protocol-MCP-blue)](https://www.npmjs.com/package/stock-sdk-mcp)
 [![AI Ready](https://img.shields.io/badge/AI-Ready-orange)](https://stock-sdk.linkdiary.cn/mcp/)
 
@@ -14,11 +14,17 @@
 
 **✨ 零依赖 | 🌐 Browser + Node.js | 📦 轻量发布包 | 🧠 完整 TypeScript 类型**
 
+## 本仓库说明
+
+本仓库地址：[https://github.com/wanghaian/stock-sdk](https://github.com/wanghaian/stock-sdk)
+
+项目来源：本仓库 fork 自 [chengzuopeng/stock-sdk](https://github.com/chengzuopeng/stock-sdk)，保留原项目的 ISC 开源许可证、使用方式和数据源说明。当前仓库用于开源学习、二次开发和功能验证。
+
 ## Documentation
 
 👉🏻 [官方文档](https://stock-sdk.linkdiary.cn/)
 
-📦 [NPM](https://www.npmjs.com/package/stock-sdk) | 📖 [GitHub](https://github.com/chengzuopeng/stock-sdk) | 🎮 [在线演示](https://stock-sdk.linkdiary.cn/playground/)
+📦 [NPM](https://www.npmjs.com/package/stock-sdk) | 📖 [GitHub](https://github.com/wanghaian/stock-sdk) | 🎮 [在线演示](https://stock-sdk.linkdiary.cn/playground/)
 
 🧭 [Stock Dashboard](https://chengzuopeng.github.io/stock-dashboard/)：基于 stock-sdk 搭建的股票数据大盘演示站点，欢迎体验。
 
